@@ -33,7 +33,8 @@ The dashboard allows filtering by:
 5. Designed a clear, user-friendly layout
 
 ## 🖼️ Dashboard Preview
-<a href = "https://github.com/Subhrajitgithub18/Global-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20092728.png">View Dashboard</a>
+- <a href = "https://github.com/Subhrajitgithub18/Global-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20092728.png">View Dashboard Page 1</a>
+<a href = "https://github.com/Subhrajitgithub18/Global-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20092752.png">View Dashboard Page 2</a>
 
 ## 💡 Project Insights
 - North America and Europe have the highest revenue
