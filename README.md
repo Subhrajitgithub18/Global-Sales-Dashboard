@@ -9,7 +9,7 @@ This Power BI dashboard project provides a comprehensive analysis of global sale
 
 ## 🧾 Dataset Used
 The dataset contains global sales transactions including product category, region, units sold, revenue, and profit.
-
+- <a href="https://github.com/Subhrajitgithub18/Global-Sales-Dashboard/blob/main/Global_Sales_Data_Class_1.xls">DataSet</a>
 
 ## ❓ Key Questions (KPIs)
 - What is the total revenue and profit across all regions?
