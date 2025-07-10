@@ -23,7 +23,7 @@ The dashboard allows filtering by:
 - Region
 - Product Category
 - Time (monthly/quarterly)
-
+- <a href= "https://github.com/Subhrajitgithub18/Global-Sales-Dashboard/blob/main/Global_Sales_Dashboard.pbix"> Dashboard</a>
 
 ## 🔧 Process
 1. Cleaned and structured the dataset
